@@ -1,0 +1,51 @@
+[
+    {
+    "className": "Precalculus",
+    "teacher": "Mr. Sandoval",
+    "roomNumber": "A219",
+    "period": "Period 1",
+    "subjectArea": "Math"
+    },
+    {
+    "className": "Honors NJIT IS219 Advanced Website Development WDPP",
+    "teacher": "Mr. Kilgore",
+    "roomNumber": "B111",
+    "period": "Period 2",
+    "subjectArea": "Web Design"
+    },
+     {
+    "className": "AP Psychology",
+    "teacher": "Mr. Kilgore",
+    "roomNumber": "A115",
+    "period": "Period 3",
+    "subjectArea": "Psychology"
+    },
+         {
+    "className": "Honors Spanish 4",
+    "teacher": "Senora Sebastiani",
+    "roomNumber": "A209",
+    "period": "Period 4",
+    "subjectArea": "Spanish"
+    },
+    {
+    "className": "BCC English",
+    "teacher": "Mr. Sauter",
+    "roomNumber": "E111",
+    "period": "Period 5",
+    "subjectArea": "English"
+    },     
+    {
+    "className": "Financial Literacy",
+    "teacher": "Mr. Morgan",
+    "roomNumber": "A132",
+    "period": "Period 6",
+    "subjectArea": "Financial Literacy"
+    },
+    {
+    "className": "Study Hall",
+    "teacher": "Mr. Wagner",
+    "roomNumber": "C101",
+    "period": "Period 7",
+    "subjectArea": "Physical Education"
+    }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "className": "Graphic Design & Photography",
+    "teacher": "Russo, Danielle",
+    "roomNumber": "B106",
+    "period": 1,
+    "subjectArea": "Art/Design"
+  },
+  {
+    "className": "Honors NJIT IS219 Advanced Website Development WDP",
+    "teacher": "Kilgore, Gregory",
+    "roomNumber": "B111",
+    "period": 2,
+    "subjectArea": "Technology"
+  },
+  {
+    "className": "English 4",
+    "teacher": "Murphy / Passo",
+    "roomNumber": "E113",
+    "period": 3,
+    "subjectArea": "English"
+  },
+  {
+    "className": "Physical Ed 12 (Q1)",
+    "teacher": "Levi, Matthew",
+    "roomNumber": "GYM",
+    "period": 4,
+    "subjectArea": "Physical Education"
+  },
+  {
+    "className": "Health 12 (Q2)",
+    "teacher": "Levi, Matthew",
+    "roomNumber": "C130",
+    "period": 4,
+    "subjectArea": "Health"
+  },
+  {
+    "className": "Physical Ed 12 (Q3)",
+    "teacher": "Levi, Matthew",
+    "roomNumber": "GYM",
+    "period": 4,
+    "subjectArea": "Physical Education"
+  },
+  {
+    "className": "Physical Ed 12 (Q4)",
+    "teacher": "Levi, Matthew",
+    "roomNumber": "GYM",
+    "period": 4,
+    "subjectArea": "Physical Education"
+  },
+  {
+    "className": "Lunch",
+    "teacher": "",
+    "roomNumber": "",
+    "period": "L",
+    "subjectArea": "Break"
+  },
+  {
+    "className": "Statistics",
+    "teacher": "Juska / Altilio",
+    "roomNumber": "A213",
+    "period": 5,
+    "subjectArea": "Math"
+  },
+  {
+    "className": "Senior Leave Option (CF Days)",
+    "teacher": "Murphy, Matthew",
+    "roomNumber": "MEDIA",
+    "period": 6,
+    "subjectArea": "Independent Study"
+  },
+  {
+    "className": "Senior Leave Option (ADG Days)",
+    "teacher": "",
+    "roomNumber": "ATTN",
+    "period": 6,
+    "subjectArea": "Independent Study"
+  },
+  {
+    "className": "Popular Music 1 (S1)",
+    "teacher": "Ippolito, Michael",
+    "roomNumber": "C103",
+    "period": 7,
+    "subjectArea": "Music"
+  },
+  {
+    "className": "Popular Music 2 (S2)",
+    "teacher": "Ippolito, Michael",
+    "roomNumber": "C103",
+    "period": 7,
+    "subjectArea": "Music"
+  }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "Class" : "BCC ENG121 The Writing Process",
+        "Teacher" : "Reganato, Grace",
+        "Room Number" : "E117"
+    },
+    {
+        "Class" : "Honors NJIT IS219 Advanced Website Development WDP",
+        "Teacher" : "Kilgore, Gregory",
+        "Room Number" : "B111"
+    },
+     {
+        "Class" : "Study Hall",
+        "Teacher" : "Cooper, Daniel",
+        "Room Number" : "C101"
+    },
+    {
+        "Class" : "Accounting 1",
+        "Teacher" : "Scinto, Patrick",
+        "Room Number" : "D110"
+    },
+      {
+        "Class" : "Precalculus",
+        "Teacher" : "Mara, Christopher",
+        "Room Number" : "E204"
+    },
+
+     {
+        "Class" : "Sociology",
+        "Teacher" : "Wisniewski, Matthew",
+        "Room Number" : "A105"
+    },
+     {
+        "Class" : "Applied Art 1",
+        "Teacher" : "Fraser, Lauren",
+        "Room Number" : "D101"
+    },
+    {
+        "Class" : "Financial Literacy",
+        "Teacher" : "Morgan, Kevin",
+        "Room Number" : "A132"
+    },
+        {
+        "Class" : "Fine Art 1",
+        "Teacher" : "Fraser, Lauren",
+        "Room Number" : "D101"
+    }
+]
